@@ -1,0 +1,451 @@
+{
+  "Board": [
+    [
+      {
+        "Row": 0,
+        "Column": 0,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 0,
+        "Column": 1,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 0,
+        "Column": 2,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 0,
+        "Column": 3,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 0,
+        "Column": 4,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 0,
+        "Column": 5,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 0,
+        "Column": 6,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 0,
+        "Column": 7,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 0
+        }
+      }
+    ],
+    [
+      {
+        "Row": 1,
+        "Column": 0,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 1,
+        "Column": 1,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 1,
+        "Column": 2,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 1,
+        "Column": 3,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 1,
+        "Column": 4,
+        "Color": 0,
+        "Piece": {
+          "Color": 1,
+          "Type": 1
+        }
+      },
+      {
+        "Row": 1,
+        "Column": 5,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 1,
+        "Column": 6,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 1,
+        "Column": 7,
+        "Color": 1,
+        "Piece": null
+      }
+    ],
+    [
+      {
+        "Row": 2,
+        "Column": 0,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 1,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 2,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 3,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 4,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 5,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 6,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 2,
+        "Column": 7,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 0
+        }
+      }
+    ],
+    [
+      {
+        "Row": 3,
+        "Column": 0,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 3,
+        "Column": 1,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 3,
+        "Column": 2,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 3,
+        "Column": 3,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 3,
+        "Column": 4,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 3,
+        "Column": 5,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 3,
+        "Column": 6,
+        "Color": 0,
+        "Piece": {
+          "Color": 1,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 3,
+        "Column": 7,
+        "Color": 1,
+        "Piece": null
+      }
+    ],
+    [
+      {
+        "Row": 4,
+        "Column": 0,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 4,
+        "Column": 1,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 4,
+        "Column": 2,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 4,
+        "Column": 3,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 4,
+        "Column": 4,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 4,
+        "Column": 5,
+        "Color": 0,
+        "Piece": {
+          "Color": 1,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 4,
+        "Column": 6,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 4,
+        "Column": 7,
+        "Color": 0,
+        "Piece": null
+      }
+    ],
+    [
+      {
+        "Row": 5,
+        "Column": 0,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 5,
+        "Column": 1,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 5,
+        "Column": 2,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 5,
+        "Column": 3,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 5,
+        "Column": 4,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 5,
+        "Column": 5,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 5,
+        "Column": 6,
+        "Color": 0,
+        "Piece": {
+          "Color": 1,
+          "Type": 0
+        }
+      },
+      {
+        "Row": 5,
+        "Column": 7,
+        "Color": 1,
+        "Piece": null
+      }
+    ],
+    [
+      {
+        "Row": 6,
+        "Column": 0,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 6,
+        "Column": 1,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 6,
+        "Column": 2,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 6,
+        "Column": 3,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 6,
+        "Column": 4,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 6,
+        "Column": 5,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 1
+        }
+      },
+      {
+        "Row": 6,
+        "Column": 6,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 6,
+        "Column": 7,
+        "Color": 0,
+        "Piece": null
+      }
+    ],
+    [
+      {
+        "Row": 7,
+        "Column": 0,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 1
+        }
+      },
+      {
+        "Row": 7,
+        "Column": 1,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 7,
+        "Column": 2,
+        "Color": 0,
+        "Piece": {
+          "Color": 0,
+          "Type": 1
+        }
+      },
+      {
+        "Row": 7,
+        "Column": 3,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 7,
+        "Column": 4,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 7,
+        "Column": 5,
+        "Color": 1,
+        "Piece": null
+      },
+      {
+        "Row": 7,
+        "Column": 6,
+        "Color": 0,
+        "Piece": null
+      },
+      {
+        "Row": 7,
+        "Column": 7,
+        "Color": 1,
+        "Piece": null
+      }
+    ]
+  ],
+  "Turn": {
+    "Turn": 1
+  },
+  "MultipleJump": {
+    "ButtonChecked": true
+  },
+  "CollectedBlackPieces": 3,
+  "CollectedWhitePieces": 8
+}
